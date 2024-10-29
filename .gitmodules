@@ -1,3 +1,4 @@
 [submodule "testscripts"]
 	path = testscripts
 	url = git@github.com:MIKEhub13free/belajar-git-submodule.git
+	branch = submodule
